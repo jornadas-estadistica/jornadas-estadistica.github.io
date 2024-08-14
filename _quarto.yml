@@ -5,15 +5,24 @@ project:
 website:
   title: "JIE-2024"
   navbar:
+    search: true
     left:
-      - href: index.qmd
+      - icon: house
+        href: index.qmd
         text: Home
-      - about.qmd
+      #- about.qmd
+    right: 
+        - href: index.qmd
+          text: Envío de trabajos
+        - href: index.qmd
+          text: Programa          
+        - href: index.qmd
+          text: Eventos anteriores
 
 format:
   html:
     #css: styles.css
     toc: true
-    theme: minty
-    #light: quartz
-    #dark: vapor
+    theme: #minty
+        light: minty
+        dark: [minty, custom_dark.css]
