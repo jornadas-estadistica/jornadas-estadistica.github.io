@@ -26,3 +26,32 @@ format:
     theme: #minty
         light: minty
         dark: [minty, custom_dark.css]
+ 
+ # include CSS style for title blocks
+title-block-banner: "#00000000"
+title-block-banner-color: "rgba(255, 255, 255, 0.9)"
+include-in-header:
+  - text: |
+      <style>
+      #title-block-header.quarto-title-block.default .quarto-title-meta {
+        color: rgba(255, 255, 255, 0.9);
+      }
+      .quarto-title-block .quarto-title-banner {
+        height: 0; /* hide */
+      }
+      #title-block-header {
+        background: 
+          /* top, transparent black, faked with gradient */
+          linear-gradient(
+            rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)
+          ),
+          /* bottom, image */ 
+          url(images/banner_jornadas.png);
+        background-size: cover;
+        background-position-y: center;
+        height: 300px;
+        opacity: 0.7; /* image opacity, lower means lighter */
+        z-index: -1;
+      }
+      </style>

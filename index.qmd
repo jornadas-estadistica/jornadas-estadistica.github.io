@@ -1,6 +1,6 @@
 ---
 title: "Jornadas Ingeniería Estadística 2024"
-title-block-banner: true
+#title-block-banner: images/banner_jornadas.png
 format: html
 ---
 

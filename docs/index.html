@@ -68,6 +68,46 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: rgba(255, 255, 255, 0.9);
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: rgba(255, 255, 255, 0.9);
+background: #00000000;
+      }
+</style>
+<style>
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+  color: rgba(255, 255, 255, 0.9);
+}
+.quarto-title-block .quarto-title-banner {
+  height: 0; /* hide */
+}
+#title-block-header {
+  background: 
+    /* top, transparent black, faked with gradient */
+    linear-gradient(
+      rgba(0, 0, 0, 0.7),
+      rgba(0, 0, 0, 0.7)
+    ),
+    /* bottom, image */ 
+    url(images/banner_jornadas.png);
+  background-size: cover;
+  background-position-y: center;
+  height: 300px;
+  opacity: 0.7; /* image opacity, lower means lighter */
+  z-index: -1;
+}
+</style>
 
 
 </head>
