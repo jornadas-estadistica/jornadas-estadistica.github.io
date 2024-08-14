@@ -16,8 +16,12 @@ website:
           text: Envío de trabajos
         - href: index.qmd
           text: Programa          
-        - href: index.qmd
-          text: Eventos anteriores
+        - text: Eventos anteriores
+          menu:
+            - text: JIE-2023
+              href: index.qmd
+            - text: JIE-2022
+              href: index.qmd
 
 format:
   html:
