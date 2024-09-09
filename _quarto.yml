@@ -12,8 +12,9 @@ website:
         text: Home
       #- about.qmd
     right: 
-        - href: index.qmd
+        - href: https://forms.gle/Wfqnd3auRDXCiCtC8
           text: Envío de trabajos
+          target: _blank
         - href: index.qmd
           text: Programa          
         - text: Eventos anteriores
@@ -26,7 +27,7 @@ website:
 format:
   html:
     #css: styles.css
-    toc: true
+    toc: false
     theme: #minty
         light: [minty, custom_light.css]
         dark: [minty, custom_dark.css]
