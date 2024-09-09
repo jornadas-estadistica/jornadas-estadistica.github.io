@@ -28,34 +28,39 @@ format:
     #css: styles.css
     toc: true
     theme: #minty
-        light: minty
+        light: [minty, custom_light.css]
         dark: [minty, custom_dark.css]
- 
- # include CSS style for title blocks
-title-block-banner: "#00000000"
-title-block-banner-color: "rgba(255, 255, 255, 0.9)"
+
+# include CSS style for title blocks
 include-in-header:
   - text: |
       <style>
-      #title-block-header.quarto-title-block.default .quarto-title-meta {
-        color: rgba(255, 255, 255, 0.9);
-      }
       .quarto-title-block .quarto-title-banner {
-        height: 0; /* hide */
+        flex-direction: row;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 400px;
+        z-index: 2;
+        padding: 0 ;
+        background-image: url(images/logos_usach.png);
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 400px 70px;;
+        }
+       .quarto-title-block .quarto-title-banner::before {
+        content: '';
+        background-image: url(images/JIE_logo.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+        width: 250px;
+        height: 250px;
+        margin-right: 20px;
       }
-      #title-block-header {
-        background: 
-          /* top, transparent black, faked with gradient */
-          linear-gradient(
-            rgba(0, 0, 0, 0.7),
-            rgba(0, 0, 0, 0.7)
-          ),
-          /* bottom, image */ 
-          url(images/banner_jornadas.png);
-        background-size: cover;
-        background-position-y: center;
-        height: 300px;
-        opacity: 0.7; /* image opacity, lower means lighter */
-        z-index: -1;
+      .quarto-title-block .quarto-title-banner h1.title {
+        margin: 0;
+        text-align: left;
+        font-size: 2.5em;
       }
       </style>
