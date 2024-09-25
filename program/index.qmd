@@ -11,10 +11,10 @@ format:
 
 
 | Hora              | Lunes 11 de Noviembre                        | Martes 12 de Noviembre                            |
-|-------------------|----------------------------------------------|---------------------------------------------------|
-| 10:00 - 10:40     | Soledad Torres  <br> *(Universidad Central)*  | Felipe Barrientos <br> *(Florida State University, EEUU)* |
-| 10:40 - 11:20     | Héctor Araya  <br> *(Universidad Adolfo Ibáñez)* | Invitado Industria                           |
+|:-----------------:|:--------------------------------------------:|:-------------------------------------------------:|
+| 10:00 - 10:40     | Soledad Torres Díaz  <br> *(Universidad Central)*  | Felipe Barrientos <br> *(Florida State University, EEUU)* |
+| 10:40 - 11:20     | Héctor Araya Carvajal  <br> *(Universidad Adolfo Ibáñez)* | Claudia Chavez <br> *(Investigadora FLACSO)*                           |
 | 11:20 - 11:40     | **Coffee Break**                   | **Coffee Break**                       |
-| 11:40 - 12:20     | Mini curso: <br> *Quarto - Github*                  | Mini curso: <br> *Quarto - Github*        |
+| 11:40 - 12:20     | Mini curso *Quarto - Github* <br> Francisco Plaza-Vega                  | Mini curso *Quarto - Github* <br> Francisco Plaza-Vega        |
 | 12:20 - 13:00     | Sesiones Orales                              | Sesiones Orales                                  |
 | 13:00 - 13:30     | **Coffee Break**                   | **Coffee Break**                       |

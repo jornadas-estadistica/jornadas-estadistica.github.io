@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+// Base document colors
+
+/*-- Modo oscuro --*/
+body {
+  background-color: #1e1e1e; /* Fondo oscuro */
+  color: #c9d1d9; /* Texto claro */
+}
+
+/* Estilos para la tabla */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #252526; /* Fondo oscuro de la tabla */
+  color: #c9d1d9; /* Texto claro de la tabla */
+}
+
+tr {
+  th, td {
+    border-bottom: 1px solid #3e3e3e; /* Línea horizontal con un gris oscuro */
+    padding: 10px;
+  }
+
+  &:last-child {
+    th, td {
+      border-bottom: none; /* Sin línea en la última fila */
+    }
+  }
+
+  &:hover {
+    background-color: #2c2c2c; /* Aclarar un poco el fondo al hacer hover */
+  }
+}
+
+/* Estilo para las celdas de encabezado */
+th {
+  background-color: #333333; /* Fondo más oscuro para el encabezado */
+  color: #ffffff; /* Texto blanco en los encabezados */
+}

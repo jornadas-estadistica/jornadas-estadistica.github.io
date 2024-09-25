@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #212f4b;
+$body-color: white;
+$link-color: #75AADB;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+// Navbar
+$navbar-bg: #1a2339;
+$nav-tabs-link-active-color: #ffffff;
+$nav-tabs-link-active-bg: #000000;
+
+// Tabla con solo líneas horizontales
+table {
+  width: 100%;
+  border-collapse: collapse;
+
+  tr {
+    th, td {
+      border-bottom: 1px solid #ddd; // Solo líneas horizontales entre filas
+      border-left: none; // Elimina las líneas verticales
+      border-right: none; // Elimina las líneas verticales
+    }
+
+    &:last-child {
+      th, td {
+        border-bottom: none; // Elimina la línea inferior de la última fila
+      }
+    }
+  }
+
+  tr:hover {
+    background-color: lighten($body-bg, 10%); // Efecto hover para aclarar el fondo
+  }
+
+  th, td {
+    padding: 10px;
+  }
+}
