@@ -16,14 +16,14 @@ include-in-header:
         background-size: 150px 70px;;
         }
        .quarto-title-block .quarto-title-banner::before {
-        content: '';
-        background-image: url(../images/JIE_logo.png);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: contain;
-        width: 100px;
-        height: 100px;
-        margin-right: 20px;
+            content: '';
+            background-image: url(../images/JIE_logo.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            width: 100px;
+            height: 100px;
+            margin-right: 20px;
       }
       .quarto-title-block .quarto-title-banner h1.title {
         margin: 0;
