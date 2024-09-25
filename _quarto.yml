@@ -15,7 +15,7 @@ website:
         - href: https://forms.gle/Wfqnd3auRDXCiCtC8
           text: Envío de trabajos
           target: _blank
-        - href: index.qmd
+        - href: program/index.qmd
           text: Programa          
         - text: Eventos anteriores
           menu:
@@ -39,25 +39,25 @@ include-in-header:
       .quarto-title-block .quarto-title-banner {
         flex-direction: row;
         display: flex;
-        justify-content: center;
+        justify-content: flex-start; /* Cambiado para alinear el logo con el texto */
         align-items: center;
         height: 400px;
         z-index: 2;
-        padding: 0 ;
+        padding: 0;
         background-image: url(images/logos_usach.png);
         background-repeat: no-repeat;
         background-position: top;
-        background-size: 400px 70px;;
-        }
-       .quarto-title-block .quarto-title-banner::before {
+        background-size: 400px 70px;
+      }
+      .quarto-title-block .quarto-title-banner::before {
         content: '';
         background-image: url(images/JIE_logo.png);
         background-repeat: no-repeat;
-        background-position: center;
-        background-size: contain;
+        background-position: left; /* Cambiado para que el logo esté más cerca del texto */
+        background-size: 250px 250px;
         width: 250px;
         height: 250px;
-        margin-right: 20px;
+        margin-right: 30px; /* Ajuste para alinear con el texto */
       }
       .quarto-title-block .quarto-title-banner h1.title {
         margin: 0;
