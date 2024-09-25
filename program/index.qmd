@@ -12,7 +12,7 @@ format:
 
 | Hora              | Lunes 11 de Noviembre                        | Martes 12 de Noviembre                            |
 |-------------------|----------------------------------------------|---------------------------------------------------|
-| 10:00 - 10:40     | Soledad Torres  <br> *(Universidad Central)*  | Felipe Barrientos <br> *(Universidad de Florida, EEUU)* |
+| 10:00 - 10:40     | Soledad Torres  <br> *(Universidad Central)*  | Felipe Barrientos <br> *(Florida State University, EEUU)* |
 | 10:40 - 11:20     | Héctor Araya  <br> *(Universidad Adolfo Ibáñez)* | Invitado Industria                           |
 | 11:20 - 11:40     | **Coffee Break**                   | **Coffee Break**                       |
 | 11:40 - 12:20     | Mini curso: <br> *Quarto - Github*                  | Mini curso: <br> *Quarto - Github*        |
