@@ -28,9 +28,11 @@ format:
   html:
     #css: styles.css
     toc: false
-    theme: #minty
-        light: [minty, custom_light.scss]
-        dark: [minty, custom_dark.scss]
+    theme: 
+      - minty
+      - custom_light.scss
+        #light: [minty, custom_light.scss]
+        #dark: [minty, custom_dark.scss]
 
 # include CSS style for title blocks
 include-in-header:

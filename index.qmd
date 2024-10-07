@@ -1,7 +1,7 @@
 ---
 title: "III Jornadas Ingeniería Estadística"
-subtitle: "11 al 12 de Noviembre 2024"
-description: "Auditorio Departamento de Matemática y Ciencia de la Computación"
+subtitle: "11 al 12 de Noviembre 2024 <br> Auditorio Departamento de Matemática y Ciencia de la Computación"
+#description: "Auditorio Departamento de Matemática y Ciencia de la Computación"
 title-block-banner: "#d394f8"
 lang: es
 format: 
@@ -9,7 +9,13 @@ format:
     embed-resources: true
 ---
 
-# Fecha límite para inscripción: 7 de octubre 2024
+:::{.callout-warning}
+## Atención!
+Extendimos el plazo para presentación de resúmenes para el 14 de Octubre de 2024!.
+:::
 
-## [Formulario de inscripción de trabajos](https://forms.gle/Wfqnd3auRDXCiCtC8){target="_blank"}
+### Extensión del envío de resúmenes!
+### [Formulario de inscripción de trabajos](https://forms.gle/Wfqnd3auRDXCiCtC8){target="_blank"}
+
+
 

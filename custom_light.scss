@@ -39,3 +39,33 @@ table {
     padding: 10px;
   }
 }
+
+/*-- Estilos para los callouts de tipo warning --*/
+.callout-warning {
+  background-color: #FFE6F0; // Fondo en un rosa pálido para suavidad y contraste con el morado
+  border-left: 4px solid white; // Borde izquierdo en blanco
+  padding: 15px;
+  color: #5C0D1F; // Texto en un tono burdeos oscuro para hacer buen contraste
+  margin: 20px 0;
+  border-radius: 5px; // Bordes redondeados para un aspecto suave
+  font-size: 1.5em; // Aumenta el tamaño del texto general
+
+  h4 {
+    margin-top: 0;
+    color: #FF4D80; // Título del callout en el mismo tono rosa fuerte del borde
+    font-size: 2em; // Aumenta el tamaño del título
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: #75AADB; // Enlaces en azul claro para consistencia con los enlaces del sitio
+    text-decoration: underline;
+  }
+
+  a:hover {
+    color: darken(#75AADB, 10%);
+  }
+}
