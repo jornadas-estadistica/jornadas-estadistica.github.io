@@ -9,8 +9,7 @@ format:
     embed-resources: true
 ---
 
-## Extensión del envío de resúmenes!
-Extendimos el plazo para presentación de resúmenes para el **14 de Octubre de 2024**!.
+## Extensión del envío de resúmenes: 14 de Octubre 2024!
 
 ::: {.columns}
 ::: {.column width="45%"}

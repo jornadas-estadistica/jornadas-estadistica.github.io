@@ -3,6 +3,10 @@ project:
   output-dir: docs
 
 website:
+  announcement: 
+    icon: info-circle
+    content: "**Atención!!!** - Extendimos el plazo para presentación de resúmenes para el **14 de Octubre de 2024**!" 
+    position: below-navbar 
   title: "JIE-2024"
   navbar:
     search: true
@@ -43,13 +47,13 @@ include-in-header:
         display: flex;
         justify-content: flex-start; /* Cambiado para alinear el logo con el texto */
         align-items: center;
-        height: 400px;
+        height: 350px;
         z-index: 2;
         padding: 0;
         background-image: url(images/logos_usach.png);
         background-repeat: no-repeat;
         background-position: top;
-        background-size: 400px 70px;
+        background-size: 350px 60px;
       }
       .quarto-title-block .quarto-title-banner::before {
         content: '';
@@ -67,3 +71,4 @@ include-in-header:
         font-size: 2.5em;
       }
       </style>
+     
