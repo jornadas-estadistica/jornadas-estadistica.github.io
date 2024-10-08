@@ -40,7 +40,32 @@ table {
   }
 }
 
+
 /*-- Estilos para los callouts de tipo warning --*/
+.callout-warning {
+  background-color: #FFE6F0;
+  border-left: 4px solid #FF4D80;
+  padding: 15px;
+  color: #5C0D1F;
+  margin: 20px 0;
+  border-radius: 5px;
+  font-size: 1.5em;
+}
+
+.callout-warning h4 {
+  margin-top: 0;
+  color: #FF4D80;
+}
+
+.callout-warning a {
+  color: #75AADB;
+  text-decoration: underline;
+}
+
+.callout-warning a:hover {
+  color: darken(#75AADB, 10%);
+}
+
 .callout-warning {
   background-color: #FFE6F0; // Fondo en un rosa pálido para suavidad y contraste con el morado
   border-left: 4px solid white; // Borde izquierdo en blanco
@@ -55,7 +80,7 @@ table {
     color: #FF4D80; // Título del callout en el mismo tono rosa fuerte del borde
     font-size: 2em; // Aumenta el tamaño del título
   }
-
+  
   p {
     margin: 0;
   }
@@ -69,3 +94,6 @@ table {
     color: darken(#75AADB, 10%);
   }
 }
+
+ // scss-docs-start headings-variables
+$headings-color: #FFFFFF;
