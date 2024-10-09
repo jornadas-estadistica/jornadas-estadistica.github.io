@@ -8,6 +8,7 @@ website:
     content: "**Atención!!!** - Extendimos el plazo para presentación de resúmenes para el **14 de Octubre de 2024**!" 
     position: below-navbar 
   title: "JIE-2024"
+  back-to-top-navigation: true
   navbar:
     search: true
     left:
@@ -27,7 +28,16 @@ website:
               href: index.qmd
             - text: JIE-2022
               href: index.qmd
-
+  page-footer:  
+    border: true
+    background: dark
+    center:
+      - icon: envelope
+        href: mailto:jornadas.estadistica.dmcc@usach.cl
+        text: Contáctanos a jornadas.estadistica.dmcc@usach.cl
+      - text: >- 
+          <br> &#169; 2024 Jornadas Ingeniería Estadística USACH <br> Hecho con [Quarto](https://quarto.org)
+       
 format:
   html:
     css: custom_light.scss
@@ -71,4 +81,3 @@ include-in-header:
         font-size: 2.5em;
       }
       </style>
-     
