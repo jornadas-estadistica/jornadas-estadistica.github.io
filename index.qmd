@@ -23,19 +23,4 @@ Los participantes interesados pueden postular sus trabajos, para ser presentados
 :::
 :::
 
-## Cómo llegar
-
-Puedes encontrar la ubicación del [Departamento de Matemática y Ciencia de la Computación (DMCC)](https://www.dmcc.usach.cl/) en la Universidad de Santiago de Chile (USACH) en el siguiente mapa:
-
-<div style="text-align: center;">
-<iframe
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBAbtHZuNTjNsHbWEjOOOGhsaZI1a83_lA&q=Departamento+de+Matemática+y+Ciencia+de+la+Computación,USACH"
-  width="600"
-  height="450"
-  style="border:0;"
-  allowfullscreen=""
-  loading="lazy"
-  referrerpolicy="no-referrer-when-downgrade">
-</iframe>
-</div>
 
