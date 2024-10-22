@@ -16,10 +16,15 @@ website:
         href: index.qmd
         text: Home
       #- about.qmd
-    right: 
-        - href: https://forms.gle/Wfqnd3auRDXCiCtC8
-          text: Envío de trabajos
-          target: _blank
+    right:
+        - text: Inscripciones
+          menu:
+            - text: Envío de trabajos
+              href: https://forms.gle/Wfqnd3auRDXCiCtC8
+              target: _blank
+            - text: Inscripción como asistente
+              href: https://www.google.cl/?hl=es
+              target: _blank
         - href: program/index.qmd
           text: Programa          
         - text: Eventos anteriores
