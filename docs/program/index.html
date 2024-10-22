@@ -4796,12 +4796,33 @@ font-size: 2.5em;
 </i> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:jornadas.estadistica.dmcc@usach.cl"> <i class="bi bi-envelope" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/jornadas-estadistica"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="https://forms.gle/Wfqnd3auRDXCiCtC8" target="_blank"> 
-<span class="menu-text">Envío de trabajos</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-inscripciones" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Inscripciones</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-inscripciones">    
+        <li>
+    <a class="dropdown-item" href="https://forms.gle/Wfqnd3auRDXCiCtC8" target="_blank">
+ <span class="dropdown-text">Envío de trabajos</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="https://docs.google.com/forms/d/e/1FAIpQLSfXoiOwlAV2eItd1HpnO7iGLXChLn0SeKph17k1Y9SmF1NxxQ/viewform" target="_blank">
+ <span class="dropdown-text">Inscripción como asistente</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link active" href="../program/index.html" aria-current="page"> 
 <span class="menu-text">Programa</span></a>
@@ -4876,7 +4897,7 @@ font-size: 2.5em;
 <tr class="odd">
 <td style="text-align: center;">09:35 - 09:50</td>
 <td style="text-align: center;"><strong>Bienvenida-Inauguración</strong></td>
-<td style="text-align: center;"><strong>Bienvenida-Inauguración</strong></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">09:50 - 10:30</td>
@@ -5338,22 +5359,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-       
-    </div>   
-    <div class="nav-footer-center">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
     <a class="nav-link" href="mailto:jornadas.estadistica.dmcc@usach.cl">
 <p>Contáctanos a jornadas.estadistica.dmcc@usach.cl</p>
 </a>
   </li>  
+</ul>
+    </div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
     <li class="nav-item">
- <br> © 2024 Jornadas Ingeniería Estadística USACH <br> Hecho con [Quarto](https://quarto.org)
+ © 2024 Jornadas Ingeniería Estadística USACH
   </li>  
 </ul>
     </div>
     <div class="nav-footer-right">
-       
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://quarto.org">
+<p>Hecho con <em>Quarto</em></p>
+</a>
+  </li>  
+</ul>
     </div>
   </div>
 </footer>
