@@ -10,11 +10,12 @@ format:
 ---
 
 
-| Hora              | Lunes 11 de Noviembre                        | Martes 12 de Noviembre                            |
+| Hora              | Lunes 11 de noviembre                        | Martes 12 de noviembre                            |
 |:-----------------:|:--------------------------------------------:|:-------------------------------------------------:|
-| 10:00 - 10:40     | Soledad Torres Díaz  <br> *(Universidad Central)*  | Felipe Barrientos <br> *(Florida State University, EEUU)* |
-| 10:40 - 11:20     | Héctor Araya Carvajal  <br> *(Universidad Adolfo Ibáñez)* | Claudia Chavez <br> *(Investigadora FLACSO)*                           |
-| 11:20 - 11:40     | **Coffee Break**                   | **Coffee Break**                       |
-| 11:40 - 12:20     | Mini curso *Quarto - Github* <br> Francisco Plaza-Vega                  | Mini curso *Quarto - Github* <br> Francisco Plaza-Vega        |
-| 12:20 - 13:00     | Sesiones Orales                              | Sesiones Orales                                  |
-| 13:00 - 13:30     | **Coffee Break**                   | **Coffee Break**                       |
+| 09:35 - 09:50     | **Bienvenida-Inauguración**                 |  |
+| 09:50 - 10:30     | Soledad Torres Díaz <br> *(Universidad Central)*  | Felipe Barrientos <br> *(Florida State University, EEUU)* |
+| 10:30 - 11:10     | Héctor Araya Carvajal <br> *(Universidad Adolfo Ibáñez)* | Claudia Chavez <br> *(Investigadora FLACSO)* |
+| 11:10 - 11:30     | **Coffee Break**                            | **Coffee Break**                                 |
+| 11:30 - 12:00     | Mini curso *Quarto - Github* <br> Francisco Plaza-Vega | Mini curso *Quarto - Github* <br> Francisco Plaza-Vega |
+| 12:00 - 13:15     | **Sesiones Orales**                         | **Sesiones Orales**                              |
+| 13:15 - 13:45     | **Coffee Break - Posters**                  | **Coffee Break - Posters**                       |

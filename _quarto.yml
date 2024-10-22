@@ -5,7 +5,7 @@ project:
 website:
   announcement: 
     icon: info-circle
-    content: "**Atención!!!** - Extendimos el plazo para presentación de resúmenes para el **14 de Octubre de 2024**!" 
+    content: "**Programa actualizado!!!**" 
     position: below-navbar 
   title: "JIE-2024"
   back-to-top-navigation: true
