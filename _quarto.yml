@@ -15,6 +15,11 @@ website:
       - icon: house
         href: index.qmd
         text: Home
+      - icon: envelope
+        href: mailto:jornadas.estadistica.dmcc@usach.cl
+      - icon: github
+        aria-label: GitHub
+        href: https://github.com/jornadas-estadistica
       #- about.qmd
     right:
         - text: Inscripciones
@@ -36,12 +41,15 @@ website:
   page-footer:  
     border: true
     background: dark
-    center:
-      - icon: envelope
+    left:
+      - text: Contáctanos a jornadas.estadistica.dmcc@usach.cl
         href: mailto:jornadas.estadistica.dmcc@usach.cl
-        text: Contáctanos a jornadas.estadistica.dmcc@usach.cl
+    center: 
       - text: >- 
-          <br> &#169; 2024 Jornadas Ingeniería Estadística USACH <br> Hecho con [Quarto](https://quarto.org)
+          &#169; 2024 Jornadas Ingeniería Estadística USACH
+    right:
+      - text: Hecho con *Quarto*
+        href: https://quarto.org
        
 format:
   html:
