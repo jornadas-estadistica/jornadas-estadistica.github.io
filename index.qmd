@@ -18,12 +18,11 @@ La participación en las Jornadas puede ser como:
 - **Presentador:** Formato oral (presentación corta) o póster.  
 - **Asistente:** ¡Cupos limitados! Los invitamos a inscribirse pronto para asegurar su participación.
 
-Pronto pondremos a disposición un **[formulario de inscripción adicional](#)** para los asistentes. ¡No te quedes fuera!
-
-### Participación como Presentador
+**[Formulario de inscripción para asistentes](https://docs.google.com/forms/d/e/1FAIpQLSfXoiOwlAV2eItd1HpnO7iGLXChLn0SeKph17k1Y9SmF1NxxQ/viewform){target="_blank"}**
 
 ::: {.columns}
 ::: {.column width="45%"}
+### Participación como Presentador
 
 Los interesados en presentar pueden enviar sus trabajos para ser considerados en formato oral o póster en las **3ras Jornadas de Ingeniería Estadística de la USACH**.
 :::
