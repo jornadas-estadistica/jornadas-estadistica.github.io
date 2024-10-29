@@ -9,7 +9,7 @@ format:
     embed-resources: true
 ---
 
-| Hora              | Lunes 11 de noviembre                        | Martes 12 de noviembre                            |
+| Hora              | Lunes 11 de noviembre                        | Martes 12 de noviembre                          |
 |:----------------- |:--------------------------------------------|:-------------------------------------------------|
 | 09:35 - 09:50     | **Bienvenida-Inauguración**                 |                                                  |
 | 09:50 - 10:30     | Soledad Torres Díaz <br> *(Universidad Central)*  | Felipe Barrientos <br> *(Florida State University, EEUU)* |
