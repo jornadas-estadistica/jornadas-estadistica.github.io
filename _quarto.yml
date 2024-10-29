@@ -30,8 +30,12 @@ website:
             - text: Inscripción como asistente
               href: https://www.google.cl/?hl=es
               target: _blank
-        - href: program/index.qmd
-          text: Programa          
+        - text: Programa
+          menu:
+            - text: Programa
+              href: program/index.qmd
+            - text: Resúmenes
+              href: abstracts/index.qmd
         - text: Eventos anteriores
           menu:
             - text: JIE-2023

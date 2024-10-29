@@ -1,0 +1,33 @@
+# include CSS style for title blocks
+include-in-header:
+  - text: |
+      <style>
+      .quarto-title-block .quarto-title-banner {
+        flex-direction: row;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 150px;
+        z-index: 2;
+        padding: 0 ;
+        background-image: none;
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: 150px 70px;;
+        }
+       .quarto-title-block .quarto-title-banner::before {
+            content: '';
+            background-image: url(../images/JIE_logo.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            width: 100px;
+            height: 100px;
+            margin-right: 20px;
+      }
+      .quarto-title-block .quarto-title-banner h1.title {
+        margin: 0;
+        text-align: left;
+        font-size: 2.5em;
+      }
+      </style>
