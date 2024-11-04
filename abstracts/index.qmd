@@ -16,7 +16,7 @@ toc-title: "Títulos de los trabajos"
 
 # Partial identification in ILSA studies of educational achievement: A strategy for producing credible interval estimates with student non-participation  
 **Maximiliano Romero**  
-*(Afiliación pendiente)*
+*International Association for the Evaluation of Educational Achievement (IEA)*
 
 Este trabajo aborda el problema de la no participación estudiantil en los estudios internacionales de evaluación a gran escala (ILSA), que afecta la estimación de parámetros poblacionales como el rendimiento promedio. Tradicionalmente, estos estudios suponen que la no participación es ignorada, lo que permite obtener estimaciones puntuales de los parámetros. Sin embargo, este enfoque depende de una fuerte suposición de independencia entre el rendimiento de los estudiantes y su probabilidad de participar, lo que puede no ser realista y comprometer la credibilidad de los resultados.
 
@@ -32,7 +32,7 @@ La identificación parcial permite explorar una serie de suposiciones intermedia
 
 # Factores asociados en el rendimiento de pruebas Simce: propuesta de análisis inferencial y hallazgos  
 **Esteban Avarca Oviedo**  
-*Universidad de Santiago de Chile*
+*Universidad de Santiago de Chile (USACH)*
 
 La Agencia de Calidad de la Educación desarrolló una herramienta con el propósito de estudiar y analizar cómo distintos aspectos de la experiencia escolar se asocian con los resultados educativos de la prueba Simce y de los Indicadores de desarrollo personal y social (IDPS). Estos son los denominados “factores asociados” que refieren sobre variadas temáticas educativas y son evaluados por medio de los Cuestionarios de Calidad Simce.
 
@@ -48,7 +48,7 @@ Utilizando la metodología antes descrita, se estimó que factores como “Ambie
 
 # Modelo BNP para datos discretos con aplicación al rendimiento de clubes deportivos  
 **Cristian Capetillo Constela**  
-*Pontificia Universidad Católica de Chile*
+*Pontificia Universidad Católica de Chile (PUC)*
 
 En toda área del conocimiento existe un interés particular en los datos del tipo discreto. Se podrían mencionar fácilmente datos como la frecuencia de eventos sísmicos, el número de productos vendidos por una tienda, el número de cigarrillos fumados por persona y el número de automóviles en una intersección, cada uno relacionado con la geología, la economía, la medicina o la planificación urbana, respectivamente.
 
@@ -62,7 +62,7 @@ La teoría Bayesiana No Paramétrica (BNP) está bien desarrollada en el context
 
 # Weibull random fields through Clayton spatial copula: an application to mining haul roads  
 **Eloy Alvarado Narváez**  
-*Universidad Técnica Federico Santa María*
+*Universidad Técnica Federico Santa María (UTFSM)*
 
 The precise assessment and characterization of road surfaces are crucial for maintaining operational efficiency and ensuring the reliability of transportation networks. This is especially true for off-the-road surfaces in mining operations, where irregular terrains pose unique challenges that traditional evaluation methods often fail to capture. As a result, there is a need for more sophisticated approaches that can better model the complexity of these environments. 
 
@@ -74,7 +74,7 @@ To further assess our model, we compare it with two alternative approaches: a We
 
 # Predicción de Desembarcos de Pulpo (Octopus vulgaris) con Inteligencia Artificial: Una Demo Interactiva en R  
 **Victor Sanz-Fernández**  
-*Pontificia Universidad Católica de Valparaíso*
+*Pontificia Universidad Católica de Valparaíso (PUCV)*
 
 La pesquería de pulpo (*Octopus vulgaris*) tiene una gran relevancia económica y social en el golfo de Cádiz, en el sur de España, y representa una actividad clave tanto para la economía local como para la Unión Europea. Poder prever los desembarques de esta especie es esencial para gestionar la pesquería de manera sostenible y tomar decisiones fundamentadas sobre su explotación. En este estudio, se emplean modelos de inteligencia artificial, específicamente redes neuronales autorregresivas, para capturar los patrones complejos y no lineales que caracterizan los desembarques de pulpo. Los datos de desembarques comerciales (primera venta) utilizados provienen del Sistema de Información Andaluz de Comercialización y Producción Pesquera (IDAPES) de Andalucía (España) y cubren el periodo desde enero de 2000 hasta diciembre de 2022 para las regiones suratlántica y mediterránea de Andalucía. Dado que los juveniles de esta especie se asientan entre septiembre y noviembre después del reclutamiento y el desove ocurre en verano en ambas regiones, los desembarques de octubre de un año hasta septiembre del año siguiente se consideran una cohorte. Así, el registro temporal comprende desde octubre de 2000 hasta septiembre de 2022. 
 
@@ -84,7 +84,7 @@ Durante la presentación en las III Jornadas de Ingeniería Estadística de la U
 
 # Análisis de factores de reincidencia delictual en Chile utilizando Machine Learning y Técnicas de Agrupamiento  
 **Vicente Jopia Alburquenque**  
-*Universidad de Santiago de Chile*
+*Universidad de Santiago de Chile (USACH)*
 
 En este trabajo, inscrito en el proyecto Fondecyt 1210254, se busca identificar las características que inciden en la reincidencia delictual en condenados de cárceles chilenas en cinco regiones. Utilizando técnicas de machine learning, se ha trabajado con una base de datos proporcionada por Gendarmería de Chile, la cual abarca información de variables demográficas de condenados desde el año 2015 hasta 2020. Se realizó un análisis exploratorio de datos, abordando problemas de registro, datos faltantes y la conversión de la fecha de nacimiento en la edad al momento del primer egreso para cada persona.
 
@@ -100,7 +100,7 @@ Dado a los requerimientos computacionales y el tamaño de la base de datos (más
 
 # El uso de los modelos de distribución de especies para la construcción de distribuciones a priori en inferencia bayesiana  
 **Mateo Antonio Morales Herrera**  
-*Universidad de Chile*
+*Universidad de Chile (UChile)*
 
 Este trabajo se sitúa en la intersección del modelamiento de nicho climático y la inferencia bayesiana, combinando dos enfoques importantes en ecología. El modelamiento de nicho climático se basa en el concepto de Hutchinson, que permite identificar áreas ambientales favorables o desfavorables de una especie, mientras que la inferencia bayesiana se utiliza para incorporar información externa en la prueba de hipótesis.
 
@@ -112,7 +112,7 @@ En lugar de utilizar información a priori no informativa, común en estudios ec
 
 # Estimación de Parámetros mediante Simulación-Extrapolación en Procesos Autorregresivos cercanos a la Raíz Unitaria  
 **Pablo Vicari Ruiz**  
-*Universidad de Santiago de Chile*
+*Universidad de Santiago de Chile (USACH)*
 
 En la actualidad, el análisis de series temporales ha adquirido una gran relevancia debido a su capacidad para modelar y predecir fenómenos en áreas tan diversas como la economía, la climatología y la epidemiología. En este contexto, los modelos autorregresivos (AR) juegan un papel crucial al permitir estimar la evolución futura de una variable a partir de sus valores pasados. El presente trabajo se enfoca en mejorar la precisión en la estimación del parámetro $\phi$ en procesos autorregresivos, con especial énfasis en escenarios cercanos a la raíz unitaria. Estos escenarios son fundamentales para entender la dependencia temporal en los modelos AR y los modelos autorregresivos irregulares (iAR), que son esenciales para capturar la dinámica de los datos en diversos campos del conocimiento.
 
