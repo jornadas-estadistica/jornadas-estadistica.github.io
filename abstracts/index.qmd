@@ -24,6 +24,14 @@ En esta charla, presentamos un modelo de regresión muestreado en tiempos aleato
 
 ---
 
+## Problamáticas en Salud una mirada a través de la Ciencia de Datos: Proyecto FONDEF ID23I10401 y otros
+**Héctor Araya Carvajal**
+*Universidad Adolfo Ibáñez*
+
+En esta charla, exploraremos de manera muy general el contexto en el cual se desarrolla el proyecto Fondef ID23I10401, cuáles son los desafíos y lo que se desea lograr. Posteriormente, de ser posible se abordará más técnicamente un problema relacionado a complicaciones respiratorias en UCI.
+
+---
+
 ## Model Risk 
 **Daniela González Oberreuter & Yorka Romero**
 *Banco Santander*
