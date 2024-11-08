@@ -24,7 +24,7 @@ En esta charla, presentamos un modelo de regresión muestreado en tiempos aleato
 
 ---
 
-## Problamáticas en Salud una mirada a través de la Ciencia de Datos: Proyecto FONDEF ID23I10401 y otros
+## Problemáticas con Salud una mirada a través de la Ciencia de Datos: Proyecto FONDEF ID23I10401 y otros
 **Héctor Araya Carvajal**
 *Universidad Adolfo Ibáñez*
 
