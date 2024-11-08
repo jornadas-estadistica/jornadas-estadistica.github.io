@@ -12,7 +12,7 @@ format:
 | Hora              | Lunes 11 de noviembre                        | Martes 12 de noviembre                          |
 |:----------------- |:--------------------------------------------|:-------------------------------------------------|
 | 09:35 - 09:50     | **Bienvenida-Inauguración**                 |                                                  |
-| 09:50 - 10:30     | Soledad Torres Díaz <br> *(Universidad Central)*  | Felipe Barrientos <br> *(Florida State University, EEUU)* |
+| 09:50 - 10:30     | Soledad Torres Díaz <br> *(Universidad Central)* </br> Modelos estadísticos muestreados en tiempos aleatorios | Felipe Barrientos <br> *(Florida State University, EEUU)* |
 | 10:30 - 11:10     | Héctor Araya Carvajal <br> *(Universidad Adolfo Ibáñez)* |  <br>  |
 | 11:10 - 11:30     | **Coffee Break**                            | **Coffee Break**                                 |
 | 11:30 - 12:00     | Mini curso *Quarto - Github* <br> Francisco Plaza-Vega | Mini curso *Quarto - Github* <br> Francisco Plaza-Vega |
