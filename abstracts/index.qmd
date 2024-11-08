@@ -9,12 +9,34 @@ format:
     embed-resources: true
     anchor-sections: true
 toc: true
-toc-depth: 1
+toc-depth: 2
 toc-location: left
 toc-title: "Títulos de los trabajos"
 ---
 
-# Partial identification in ILSA studies of educational achievement: A strategy for producing credible interval estimates with student non-participation  
+# Sesión invitada
+
+## Modelos estadísticos muestreados en tiempos aleatorios
+**Soledad Torres Díaz**
+*Universidad Central*
+
+En esta charla, presentamos un modelo de regresión muestreado en tiempos aleatorios, considerando que las variables pueden no ser independientes. El ruido utilizado en nuestro modelo se generaliza más allá del ruido blanco. A continuación, analizamos la consistencia del estimador por Mínimos Cuadrados para los parámetros del modelo. Finalmente, presentaremos simulaciones que ilustran el comportamiento del modelo y la efectividad de los estimadores en diversas condiciones. Estas simulaciones nos permitirán visualizar cómo las características del ruido influyen en la precisión de las estimaciones.
+
+---
+
+## Model Risk 
+**Daniela González Oberreuter & Yorka Romero**
+*Banco Santander*
+
+En Santander los modelos estadísticos son una herramienta esencial, ya que se utilizan como soporte de los procesos de decisión, para la generación de informes financieros y regulatorios, así como para proveer información predictiva en distintas funciones de gestión de riesgo. No obstante, su uso conlleva riesgos potenciales y además dada su relevancia, es importante establecer un marco adecuado para gestionar dichos riesgos.
+
+El riesgo de modelo se define como la materialización de las potenciales consecuencias negativas derivadas de las decisiones basadas en resultados de modelos incorrectos, inadecuados o utilizados de forma indebida. En esta presentación, profundizaremos en los distintos tipos de riesgos que se miden en el sector bancario y analizaremos el ciclo de vida de los modelos utilizados, con el fin de garantizar su uso adecuado y minimizar los riesgos asociados.
+
+---
+
+# Sesiones orales
+
+## Partial identification in ILSA studies of educational achievement: A strategy for producing credible interval estimates with student non-participation  
 **Maximiliano Romero**  
 *International Association for the Evaluation of Educational Achievement (IEA)*
 
@@ -30,7 +52,7 @@ La identificación parcial permite explorar una serie de suposiciones intermedia
 
 ---
 
-# Factores asociados en el rendimiento de pruebas Simce: propuesta de análisis inferencial y hallazgos  
+## Factores asociados en el rendimiento de pruebas Simce: propuesta de análisis inferencial y hallazgos  
 **Esteban Avarca Oviedo**  
 *Universidad de Santiago de Chile (USACH)*
 
@@ -46,7 +68,7 @@ Utilizando la metodología antes descrita, se estimó que factores como “Ambie
 
 ---
 
-# Modelo BNP para datos discretos con aplicación al rendimiento de clubes deportivos  
+## Modelo BNP para datos discretos con aplicación al rendimiento de clubes deportivos  
 **Cristian Capetillo Constela**  
 *Pontificia Universidad Católica de Chile (PUC)*
 
@@ -60,7 +82,7 @@ La teoría Bayesiana No Paramétrica (BNP) está bien desarrollada en el context
 
 ---
 
-# Weibull random fields through Clayton spatial copula: an application to mining haul roads  
+## Weibull random fields through Clayton spatial copula: an application to mining haul roads  
 **Eloy Alvarado Narváez**  
 *Universidad Técnica Federico Santa María (UTFSM)*
 
@@ -72,7 +94,7 @@ To further assess our model, we compare it with two alternative approaches: a We
 
 ---
 
-# Predicción de Desembarcos de Pulpo (Octopus vulgaris) con Inteligencia Artificial: Una Demo Interactiva en R  
+## Predicción de Desembarcos de Pulpo (Octopus vulgaris) con Inteligencia Artificial: Una Demo Interactiva en R  
 **Victor Sanz-Fernández**  
 *Pontificia Universidad Católica de Valparaíso (PUCV)*
 
@@ -82,7 +104,7 @@ Durante la presentación en las III Jornadas de Ingeniería Estadística de la U
 
 ---
 
-# Análisis de factores de reincidencia delictual en Chile utilizando Machine Learning y Técnicas de Agrupamiento  
+## Análisis de factores de reincidencia delictual en Chile utilizando Machine Learning y Técnicas de Agrupamiento  
 **Vicente Jopia Alburquenque**  
 *Universidad de Santiago de Chile (USACH)*
 
@@ -98,7 +120,7 @@ Dado a los requerimientos computacionales y el tamaño de la base de datos (más
 
 ---
 
-# El uso de los modelos de distribución de especies para la construcción de distribuciones a priori en inferencia bayesiana  
+## El uso de los modelos de distribución de especies para la construcción de distribuciones a priori en inferencia bayesiana  
 **Mateo Antonio Morales Herrera**  
 *Universidad de Chile (UChile)*
 
@@ -110,7 +132,7 @@ En lugar de utilizar información a priori no informativa, común en estudios ec
 
 ---
 
-# Estimación de Parámetros mediante Simulación-Extrapolación en Procesos Autorregresivos cercanos a la Raíz Unitaria  
+## Estimación de Parámetros mediante Simulación-Extrapolación en Procesos Autorregresivos cercanos a la Raíz Unitaria  
 **Pablo Vicari Ruiz**  
 *Universidad de Santiago de Chile (USACH)*
 
