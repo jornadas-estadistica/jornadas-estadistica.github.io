@@ -32,6 +32,15 @@ En esta charla, exploraremos de manera muy general el contexto en el cual se des
 
 ---
 
+## Data privacy and Bayesian inference
+**Felipe Barrientos** 
+*Florida State University, EEUU*
+
+Protecting individuals' private information while still allowing modelers to draw inferences from confidential data sets is a concern of many data producers. Differential privacy is a framework that enables statistical analyses while controlling the potential leakage of private information. A significant challenge in statistical analysis for data privacy is to account for all sources of randomness, including that required to achieve specific levels of privacy. In this talk, we combine Bayesian and differential privacy approaches to develop methods that perform statistical inference while bounding the potential leakage of information. We will discuss different approaches for different statistical data privacy, including applications to real data sets
+
+
+---
+
 ## Model Risk 
 **Daniela González Oberreuter & Yorka Romero**
 *Banco Santander*
