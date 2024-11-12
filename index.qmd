@@ -8,7 +8,7 @@ format:
     embed-resources: true
 ---
 
-## ¡Programa actualizado!
+## ¡Programa actualizado 2
 
 Hemos actualizado el [programa](program/index.qmd) para **incorporar más presentaciones**, dada la **alta convocatoria** que hemos recibido. ¡Gracias por el entusiasmo!
 
