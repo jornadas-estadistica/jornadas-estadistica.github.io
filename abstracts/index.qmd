@@ -128,22 +128,6 @@ Durante la presentación en las III Jornadas de Ingeniería Estadística de la U
 
 ---
 
-## Análisis de factores de reincidencia delictual en Chile utilizando Machine Learning y Técnicas de Agrupamiento  
-**Vicente Jopia Alburquenque**  
-*Universidad de Santiago de Chile (USACH)*
-
-En este trabajo, inscrito en el proyecto Fondecyt 1210254, se busca identificar las características que inciden en la reincidencia delictual en condenados de cárceles chilenas en cinco regiones. Utilizando técnicas de machine learning, se ha trabajado con una base de datos proporcionada por Gendarmería de Chile, la cual abarca información de variables demográficas de condenados desde el año 2015 hasta 2020. Se realizó un análisis exploratorio de datos, abordando problemas de registro, datos faltantes y la conversión de la fecha de nacimiento en la edad al momento del primer egreso para cada persona.
-
-Como variables relevantes es necesario destacar la edad, comuna, delitos cometidos, nacionalidad, reincidencia y sexo de los individuos, las cuales fueron transformadas en variables dummy donde en el caso de la reincidencia toma el valor uno si es que el individuo posee dos o más condenas y el valor cero en caso contrario. Para los delitos se creó un DataFrame donde cada columna representa cada tipo de delito y cada fila corresponde a una persona, registrando la frecuencia con que cometió cada delito: un valor de 0 si no lo cometió, 1 si lo cometió una vez, y 2 o más si lo cometió en múltiples ocasiones.
-
-Posteriormente, las variables se agruparon en dos conjuntos para analizar su variabilidad a través de técnicas de clustering basadas en densidad. Observando los resultados del clustering mediante t-sne, estos mostraron una alta variabilidad en las variables demográficas edad, sexo, nacionalidad y comuna, mientras que las variables relacionadas con los delitos no presentaron la misma dispersión. Debido a esta observación, se decidió enfocar el análisis en los delitos para estimar la reincidencia.
-
-Al realizar el análisis de clustering, como las variables a trabajar son discretas, se decidió ocupar el modelo de agrupamiento Density-based spatial clustering of applications with noise (DBSCAN), la métrica de distancia utilizada fue la distancia Jaccard y también se implementó la métrica average silhouette, Calinski-Harabasz y Davies-Bouldin, con el fin de determinar el número óptimo de clusters a trabajar.
-
-Dado a los requerimientos computacionales y el tamaño de la base de datos (más de 200,000 observaciones), se trabajó con un máximo del veinte por ciento de los datos para el análisis de clustering, y después de definir el número de clusters a trabajar, estos se caracterizaron identificando por cuántos delitos estaban compuestos cada uno y luego se utilizó un modelo de árbol de decisión para predecir a qué cluster pertenecen los datos que aún no han sido analizados de la base de datos utilizando la métrica F1 para medir el rendimiento predictivo del modelo.
-
----
-
 ## El uso de los modelos de distribución de especies para la construcción de distribuciones a priori en inferencia bayesiana  
 **Mateo Antonio Morales Herrera**  
 *Universidad de Chile (UChile)*
