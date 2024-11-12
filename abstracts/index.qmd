@@ -19,6 +19,7 @@ toc-title: "Títulos de los trabajos"
 ## Modelos estadísticos muestreados en tiempos aleatorios
 **Soledad Torres Díaz**
 *Universidad Central*
+[Slides](../presentations/Soledad_Torres.pdf){target="_blank"}
 
 En esta charla, presentamos un modelo de regresión muestreado en tiempos aleatorios, considerando que las variables pueden no ser independientes. El ruido utilizado en nuestro modelo se generaliza más allá del ruido blanco. A continuación, analizamos la consistencia del estimador por Mínimos Cuadrados para los parámetros del modelo. Finalmente, presentaremos simulaciones que ilustran el comportamiento del modelo y la efectividad de los estimadores en diversas condiciones. Estas simulaciones nos permitirán visualizar cómo las características del ruido influyen en la precisión de las estimaciones.
 
@@ -27,6 +28,7 @@ En esta charla, presentamos un modelo de regresión muestreado en tiempos aleato
 ## Problemáticas con Salud una mirada a través de la Ciencia de Datos: Proyecto FONDEF ID23I10401 y otros
 **Héctor Araya Carvajal**
 *Universidad Adolfo Ibáñez*
+[Slides](../presentations/Hector_Araya.pdf){target="_blank"}
 
 En esta charla, exploraremos de manera muy general el contexto en el cual se desarrolla el proyecto Fondef ID23I10401, cuáles son los desafíos y lo que se desea lograr. Posteriormente, de ser posible se abordará más técnicamente un problema relacionado a complicaciones respiratorias en UCI.
 
@@ -72,6 +74,8 @@ La identificación parcial permite explorar una serie de suposiciones intermedia
 ## Factores asociados en el rendimiento de pruebas Simce: propuesta de análisis inferencial y hallazgos  
 **Esteban Avarca Oviedo**  
 *Universidad de Santiago de Chile (USACH)*
+[Slides](../presentations/Esteban_Avarca.pdf){target="_blank"}
+
 
 La Agencia de Calidad de la Educación desarrolló una herramienta con el propósito de estudiar y analizar cómo distintos aspectos de la experiencia escolar se asocian con los resultados educativos de la prueba Simce y de los Indicadores de desarrollo personal y social (IDPS). Estos son los denominados “factores asociados” que refieren sobre variadas temáticas educativas y son evaluados por medio de los Cuestionarios de Calidad Simce.
 
@@ -88,6 +92,7 @@ Utilizando la metodología antes descrita, se estimó que factores como “Ambie
 ## Modelo BNP para datos discretos con aplicación al rendimiento de clubes deportivos  
 **Cristian Capetillo Constela**  
 *Pontificia Universidad Católica de Chile (PUC)*
+[Slides](../presentations/Cristian_Capetillo.pdf){target="_blank"}
 
 En toda área del conocimiento existe un interés particular en los datos del tipo discreto. Se podrían mencionar fácilmente datos como la frecuencia de eventos sísmicos, el número de productos vendidos por una tienda, el número de cigarrillos fumados por persona y el número de automóviles en una intersección, cada uno relacionado con la geología, la economía, la medicina o la planificación urbana, respectivamente.
 
@@ -102,6 +107,7 @@ La teoría Bayesiana No Paramétrica (BNP) está bien desarrollada en el context
 ## Weibull random fields through Clayton spatial copula: an application to mining haul roads  
 **Eloy Alvarado Narváez**  
 *Universidad Técnica Federico Santa María (UTFSM)*
+[Slides](../presentations/Eloy_Alvarado.pdf){target="_blank"}
 
 The precise assessment and characterization of road surfaces are crucial for maintaining operational efficiency and ensuring the reliability of transportation networks. This is especially true for off-the-road surfaces in mining operations, where irregular terrains pose unique challenges that traditional evaluation methods often fail to capture. As a result, there is a need for more sophisticated approaches that can better model the complexity of these environments. 
 
@@ -114,6 +120,7 @@ To further assess our model, we compare it with two alternative approaches: a We
 ## Predicción de Desembarcos de Pulpo (Octopus vulgaris) con Inteligencia Artificial: Una Demo Interactiva en R  
 **Victor Sanz-Fernández**  
 *Pontificia Universidad Católica de Valparaíso (PUCV)*
+[Slides](../presentations/Victor_Sanz.pptx){target="_blank"} [Código](../presentations/Victor_Sanz.R){target="_blank"}
 
 La pesquería de pulpo (*Octopus vulgaris*) tiene una gran relevancia económica y social en el golfo de Cádiz, en el sur de España, y representa una actividad clave tanto para la economía local como para la Unión Europea. Poder prever los desembarques de esta especie es esencial para gestionar la pesquería de manera sostenible y tomar decisiones fundamentadas sobre su explotación. En este estudio, se emplean modelos de inteligencia artificial, específicamente redes neuronales autorregresivas, para capturar los patrones complejos y no lineales que caracterizan los desembarques de pulpo. Los datos de desembarques comerciales (primera venta) utilizados provienen del Sistema de Información Andaluz de Comercialización y Producción Pesquera (IDAPES) de Andalucía (España) y cubren el periodo desde enero de 2000 hasta diciembre de 2022 para las regiones suratlántica y mediterránea de Andalucía. Dado que los juveniles de esta especie se asientan entre septiembre y noviembre después del reclutamiento y el desove ocurre en verano en ambas regiones, los desembarques de octubre de un año hasta septiembre del año siguiente se consideran una cohorte. Así, el registro temporal comprende desde octubre de 2000 hasta septiembre de 2022. 
 
